@@ -1,2 +1,2 @@
 # TripTracker
-Tracks trip data/ car health data and allows for user to analyze.
+This project allows for drivers to track and log their driving data for road trips. It would track the trip duration, distance, average speeds, and other data. Using this data collected by the vehicles OBD-II port, the system will also be able to monitor the vehicle’s health as you are driving. This information is transferred from the OBD-II port through a bluetooth OBD-II adapter to a smartphone. All data collected will be available via a smart phone application, providing feedback if the data points to the vehicle’s health being at risk. Users will be able to access this data and access their driving habits as well as the overall health and stability of their vehicle.
